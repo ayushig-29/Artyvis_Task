@@ -12,4 +12,5 @@ Artyvis Internship Task
         </br> scrap crawl sets -o necklace_sets.csv </br>
 5. To export the data in json format run the following command:
       </br>  scrap crawl sets -o item.json </br>
+6. The desired output i.e both the csv and json file inside the directory <i> output/ </i>
     
