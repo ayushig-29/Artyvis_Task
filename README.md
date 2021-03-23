@@ -5,7 +5,7 @@ Artyvis Internship Task
     pip install -r requirement.txt
 2. Import the project in Pycharm IDE.
 3. Run the project by entering the command inside the directory necklace_sets.
-   <\br> <b> <\t> scrap crawl sets </b>
+   <br> <b> scrap crawl sets </b>
 4. To export the data in csv format:
     1. I have already edit the line in settings.py which automatically generate the .csv file.
     2. We can also generate the csv file using command : 
